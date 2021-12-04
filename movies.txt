@@ -1,5 +1,2 @@
 Lili's list of Movies:
-1. Beauty
-2. Ugly
-3. Wind
-4. My life
+// Delete everything
